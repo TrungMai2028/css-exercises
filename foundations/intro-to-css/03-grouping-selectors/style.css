@@ -1,0 +1,13 @@
+.cl1{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.cl1.clA{
+    background-color: black;
+    color: white;
+}
+
+.cl1.clB{
+    background-color: yellow;
+}
