@@ -1,0 +1,18 @@
+.abc {
+    background-color: pink;
+    font-size: 20px;
+}
+
+.abc.kf{
+    font-size: 30px;
+}
+
+#id1{
+    font-size: 35px;
+    color: blue;
+}
+#id2{
+    font-weight: bold;
+    background-color: greenyellow;
+    font-size: 30px;
+}
